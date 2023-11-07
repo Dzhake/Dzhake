@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on `DzhakeHelper` + `dzhake.github.io`
+- 🔭 I’m currently working on `DzhakeHelper` + `trashovania mod`
 - 🌱 I’m currently learning C# (I'm learning it and using it at same time 🥴)
 - 🤔 I’m looking for help with everything.
 - 📫 How to reach me: `dzhake` on discord
