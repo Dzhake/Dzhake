@@ -9,6 +9,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dzhake&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
+I want to be:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=swoolcock&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
