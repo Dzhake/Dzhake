@@ -35,7 +35,7 @@ I want to be:
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhake&show_icons=true&layout=compact&hide_border=true&theme=radical"/></p>
+<p><img align="left" src="https://github-readme-stats-n9n5pvn1y-dzhakes-projects.vercel.app/api/top-langs?username=dzhake&show_icons=true&layout=compact&hide_border=true&theme=radical"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzhake&show_icons=true&hide_border=true&theme=radical"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-n9n5pvn1y-dzhakes-projects.vercel.app.app/api?username=dzhake&show_icons=true&hide_border=true&theme=radical"/></p>
 
