@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on `DzhakeHelper` + `trashovania mod`
-- 🌱 I’m currently learning C# (I'm learning it and using it at same time 🥴)
+- 🔭 I’m currently working on `DzhakeHelper` and trying to learn Vue to make a game.
+- 🌱 I’m currently learning C# and JS and Vue and HTML and CSS (I'm learning it and using it at same time 🥴)
 - 🤔 I’m looking for help with everything.
 - 📫 How to reach me: `dzhake` on discord
 - 😄 Pronouns: He/Him
@@ -10,7 +10,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=dzhake&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 I want to be:
-
+<!-- At started I wanted to put Kalobi here, but his stats are way too low lol{:/comment} -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=swoolcock&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 <h3 align="left">Contact me:</h3>
