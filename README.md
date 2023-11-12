@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on `DzhakeHelper` and trying to learn Vue to make a game.
-- 🌱 I’m currently learning C# and JS and Vue and HTML and CSS (I'm learning it and using it at same time 🥴)
+- 🌱 I’m currently learning C# (I'm learning it and using it at same time 🥴) and JS and Vue and HTML and CSS
 - 🤔 I’m looking for help with everything.
 - 📫 How to reach me: `dzhake` on discord
 - 😄 Pronouns: He/Him
