@@ -1,6 +1,4 @@
-- 🔭 I’m currently working on `DzhakeHelper` and trying to learn Vue to make a game.
-- 🌱 I’m currently learning C# (I'm learning it and using it at same time 🥴) and JS and Vue and HTML and CSS
-- 🤔 I’m looking for help with everything.
+- 🔭 Some time ago I thought that lua is cool. Now I understand that lua is awful and C# is cool...
 - 📫 How to reach me: `dzhake` on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Recusion is when you say "Fun fact: Recursion is when you say "Fun fact: Recursion is *crash*
