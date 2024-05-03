@@ -1,5 +1,4 @@
 - 🔭 Some time ago I thought that lua is cool. Now I understand that lua is awful and C# is cool...
-- 📫 How to reach me: `dzhake` on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Recusion is when you say "Fun fact: Recursion is when you say "Fun fact: Recursion is *crash*
 
