@@ -1,13 +1,13 @@
 - 🔭 Some time ago I thought that lua is cool. Now I understand that lua is awful and C# is cool...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Recusion is when you say "Fun fact: Recursion is when you say "Fun fact: Recursion is *crash*
+- ⚡ Fun fact: Recursion is when you say "Fun fact: Recursion is when you say "Fun fact: Recursion is *crash*
 
 # Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dzhake&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 I want to be:
-<!-- At started I wanted to put Kalobi here, but his stats are way too low lol{:/comment} -->
+<!-- At started I wanted to put Kalobi here, but his stats are way too low lol -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=swoolcock&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
 <h3 align="left">Contact me:</h3>
