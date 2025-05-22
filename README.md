@@ -5,10 +5,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dzhake&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
-I want to be:
-<!-- At started I wanted to put Kalobi here, but his stats are way too low lol -->
-![trophy](https://github-profile-trophy.vercel.app/?username=swoolcock&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
   Discord: Dzhake
@@ -19,9 +15,6 @@ I want to be:
   
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>](https://learn.microsoft.com/en-US/dotnet/csharp/)
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>](https://www.lua.org/)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://javascript.info/)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org/)
   <br>
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>](https://github.com/)
   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
