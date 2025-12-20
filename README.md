@@ -1,10 +1,6 @@
 - I love strictly typed language (especially c#) and modding/gamedev
 - He/Him
 
-# Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dzhake&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
-
 <h3 align="left">Contact me:</h3>
 <p align="left">
   Discord: Dzhake
